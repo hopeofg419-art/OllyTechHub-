@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ollytechhub.com/sitemap.xml
